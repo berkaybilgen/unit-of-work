@@ -4,6 +4,9 @@ namespace UOW.Repository
 {
     public interface IUnitOfWork
     {
-        Task CommityAsync();
+        ILeagueRepository League { get; }
+        ITeamRepository Team { get; }
+        IPlayerRepository Player { get; }
+        Task CommitAsync();
     }
 }
