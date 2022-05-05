@@ -1,0 +1,14 @@
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\bin\Debug\net5.0\UOW.Data.deps.json
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\bin\Debug\net5.0\UOW.Data.runtimeconfig.json
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\bin\Debug\net5.0\UOW.Data.runtimeconfig.dev.json
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\bin\Debug\net5.0\UOW.Data.dll
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\bin\Debug\net5.0\ref\UOW.Data.dll
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\bin\Debug\net5.0\UOW.Data.pdb
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\obj\Debug\net5.0\UOW.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\obj\Debug\net5.0\UOW.Data.AssemblyInfoInputs.cache
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\obj\Debug\net5.0\UOW.Data.AssemblyInfo.cs
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\obj\Debug\net5.0\UOW.Data.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\obj\Debug\net5.0\UOW.Data.dll
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\obj\Debug\net5.0\ref\UOW.Data.dll
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\obj\Debug\net5.0\UOW.Data.pdb
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Data\obj\Debug\net5.0\UOW.Data.genruntimeconfig.cache

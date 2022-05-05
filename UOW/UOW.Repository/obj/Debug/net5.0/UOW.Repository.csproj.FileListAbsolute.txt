@@ -1,0 +1,15 @@
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\bin\Debug\net5.0\UOW.Repository.deps.json
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\bin\Debug\net5.0\UOW.Repository.dll
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\bin\Debug\net5.0\ref\UOW.Repository.dll
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\bin\Debug\net5.0\UOW.Repository.pdb
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\bin\Debug\net5.0\UOW.Data.dll
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\bin\Debug\net5.0\UOW.Data.pdb
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\obj\Debug\net5.0\UOW.Repository.csproj.AssemblyReference.cache
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\obj\Debug\net5.0\UOW.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\obj\Debug\net5.0\UOW.Repository.AssemblyInfoInputs.cache
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\obj\Debug\net5.0\UOW.Repository.AssemblyInfo.cs
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\obj\Debug\net5.0\UOW.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\obj\Debug\net5.0\UOW.Repository.csproj.CopyComplete
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\obj\Debug\net5.0\UOW.Repository.dll
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\obj\Debug\net5.0\ref\UOW.Repository.dll
+C:\Users\Berkay\source\repos\UnitOfWork\UOW\UOW.Repository\obj\Debug\net5.0\UOW.Repository.pdb
